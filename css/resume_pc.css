@@ -121,18 +121,18 @@ a {
 }
 .pro-skill {
   position: relative;
-  min-height: 156px;
+  min-height: 410px;
 }
 .pro-skill .icon {
   background: url('../image/pro_skill_icon.png') no-repeat;
 }
 .pro-skill ul {
-  padding: 0;
-  margin: 0;
+  padding-left: 24px;
+  margin: 16px;
 }
 .work-experience {
   position: relative;
-  min-height: 440px;
+  min-height: 130px;
 }
 .work-experience .icon {
   background: url('../image/work_experience_icon.png') no-repeat;
